@@ -1,0 +1,44 @@
+{
+  "chart": {
+    "title": "Share of people who support policies to tackle climate change",
+    "subtitle": "Support was measured on a scale from 0 to 100 across nine interventions, including carbon taxes on fossil fuels, expanding public transport, more renewable energy, more electric car chargers, taxes on airlines, investments in green jobs and businesses, laws to keep waterways clean, protecting forests, and increasing taxes on carbon-intensive foods.",
+    "note": "The final score was based on the average of the nine interventions, each measured on a 0 to 100 scale.",
+    "citation": "Vlasceanu et al. (2024). Addressing climate change with behavioral science: A global intervention tournament in 63 countries.",
+    "originalChartUrl": "https://ourworldindata.org/grapher/support-policies-climate?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "World",
+      "China",
+      "India",
+      "United Kingdom",
+      "United States",
+      "Japan",
+      "Germany",
+      "Norway",
+      "Brazil",
+      "South Africa",
+      "Kenya",
+      "Nigeria",
+      "Australia",
+      "Chile"
+    ]
+  },
+  "columns": {
+    "Support political action on climate": {
+      "titleShort": "Support political action on climate",
+      "titleLong": "Support political action on climate",
+      "descriptionKey": [],
+      "shortUnit": "%",
+      "unit": "%",
+      "timespan": "2023-2023",
+      "type": "Numeric",
+      "owidVariableId": 820911,
+      "shortName": "policy_support_climate",
+      "lastUpdated": "2024-02-18",
+      "citationShort": "Vlasceanu et al. (2024). Addressing climate change with behavioral science: A global intervention tournament in 63 countries. – processed by Our World in Data",
+      "citationLong": "Vlasceanu et al. (2024). Addressing climate change with behavioral science: A global intervention tournament in 63 countries. – processed by Our World in Data. “Support political action on climate” [dataset]. Vlasceanu et al. (2024). Addressing climate change with behavioral science: A global intervention tournament in 63 countries., “public_support_climate_vlasceanu” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/820911.metadata.json"
+    }
+  },
+  "dateDownloaded": "2024-12-26",
+  "activeFilters": {}
+}
